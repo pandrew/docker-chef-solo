@@ -1,8 +1,8 @@
-# DOCKER-VERSION 0.5.3
+# DOCKER-VERSION 0.7.1
 
-FROM paulczar/chef-client
+FROM pandrew/chef-client
 
-MAINTAINER Paul Czarkowski "paul@paulcz.net"
+MAINTAINER Paul Andrew Liljenberg “letters@paulnotcom.se”
 
 RUN apt-get -y update
 
